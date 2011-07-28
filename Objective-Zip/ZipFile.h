@@ -33,8 +33,8 @@
 
 #import <Foundation/Foundation.h>
 
-#include "zip.h"
-#include "unzip.h"
+#include "../MiniZip/zip.h"
+#include "../MiniZip/unzip.h"
 
 
 typedef enum {
